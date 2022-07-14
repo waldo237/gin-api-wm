@@ -14,7 +14,7 @@ require (
 	github.com/pilinux/structs v1.1.1
 	github.com/qiniu/qmgo v1.1.0
 	github.com/sirupsen/logrus v1.8.1
-	go.mongodb.org/mongo-driver v1.9.0
+	go.mongodb.org/mongo-driver v1.9.1
 	gorm.io/driver/mysql v1.3.5
 	gorm.io/driver/postgres v1.3.5
 	gorm.io/driver/sqlite v1.3.1
