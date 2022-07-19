@@ -13,7 +13,7 @@ require (
 	github.com/onrik/logrus v0.9.0
 	github.com/pilinux/structs v1.1.1
 	github.com/qiniu/qmgo v1.1.0
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.0
 	go.mongodb.org/mongo-driver v1.9.0
 	gorm.io/driver/mysql v1.3.5
 	gorm.io/driver/postgres v1.3.5
@@ -58,7 +58,7 @@ require (
 	github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d // indirect
 	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871 // indirect
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e // indirect
-	golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac // indirect
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
